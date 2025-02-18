@@ -1,17 +1,27 @@
-# allure-cypress
+# Allure Report
 
 ## Installation
 
 ```bash
-npm install cypress --save-dev
+npm install 
+```
+## Installation Allure
+* For mac
+```bash
+$ brew install allure
+```
+* For Windows
+```bash
+scoop install allure
 ```
 
-## Run Cypress UI:
+
+## Run Test
+* Run Cypress UI
 ```bash
 npx cypress open
 ```
-
-## Run Cypress UI (Headless Mode) 
+* Run Cypress UI (Headless Mode) 
 ```bash
 npx cypress run
 ```
