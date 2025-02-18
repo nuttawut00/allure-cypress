@@ -22,6 +22,8 @@ scoop install allure
 npx cypress open
 ```
 * Run Cypress UI (Headless Mode) 
+
+## Run Cypress (Headless Mode) 
 ```bash
 npx cypress run
 ```
